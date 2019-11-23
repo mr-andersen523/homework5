@@ -19,4 +19,4 @@ The calendar displays past time/event in a gray color, present time/current even
 
 ![]()
 
-![Gif Preview](work_planner.gif)
+![Preview](workday-planner.gif)
